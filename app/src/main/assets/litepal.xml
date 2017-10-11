@@ -1,9 +1,9 @@
 <litepal>
-    <dbname value="cool_weatherxf" />
+    <dbname value="cool_weather" />
     <version value="1" />
     <list>
-        <mapping class="com.coolweatherxf.android.db.Province" />
-        <mapping class="com.coolweatherxf.android.db.City" />
-        <mapping class="com.coolweatherxf.android.db.County" />
+        <mapping class="com.example.coolweatherxf.db.Province" />
+        <mapping class="com.example.coolweatherxf.db.City" />
+        <mapping class="com.example.coolweatherxf.db.County" />
     </list>
  </litepal>
